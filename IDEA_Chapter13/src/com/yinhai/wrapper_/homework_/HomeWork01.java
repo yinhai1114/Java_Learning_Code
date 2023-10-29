@@ -1,3 +1,9 @@
+package com.yinhai.homework_;
+
+/**
+ * @author 银海
+ * @version 1.0
+ */
 public class HomeWork01 {
     public static void main(String[] args) {
         String str = "0123456789";
