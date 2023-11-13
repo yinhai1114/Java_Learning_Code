@@ -7,9 +7,18 @@ package com.yinhai;
 public class Cat {
 
     private String name = "";
+    public String age = "1000";
+
+    public Cat() {
+    }
+
+    public Cat(String name) {
+        this.name = name;
+    }
+
     public void hi (){
-        System.out.println("========================");
-        System.out.println("meow hi that a reflection");
+        // System.out.println("========================");
+        // System.out.println("meow hi that a reflection");
     }
     public void cry(){
         System.out.println("========================");
