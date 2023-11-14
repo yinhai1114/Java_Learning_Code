@@ -1,4 +1,4 @@
-package com.yinhai.class_;
+package com.yinhai.reflection.class_;
 
 import java.io.Serializable;
 
