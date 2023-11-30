@@ -33,8 +33,26 @@ IDEA_Chapter19 文件流 IO流--节点流、处理流、对象流、转换流、
 
 IDEA_Chapter20 坦克大战1.5 - 1.6，防止重叠，记录成绩，选择是否开新游戏或上局游戏，播放游戏音乐  
 
+IDEA_Chapter21 IO流，TCP网络编程  
+
+IDEA_Chapter22 QQSlient QQServer qq通讯系统,运用IO流TCP网络传输
+
+IDEA_Chapter23 反射
+
+IDEA_Chapter24 mysql快速入门  
+
+IDEA_Chapter25 JDBC入门
+
+IDEA_Chapter26 满汉楼 - 文字界面餐饮管理
+
+IDEA_Chapter27 正则表达式
+
+IDEA_Chapter28 算法的入门 马踏棋盘问题
+
+
 个人学习JAVA的代码，有很多在做的时候觉得蛮有意思的，但后面类太多了，把类直接贴CSDN里太麻烦，用个仓库做个存放，纯0开始  
   2023.9.20从0开始  
   2023.10.14目前学习到继承  
-  2023.11.5学习到坦克大战  
-  2023.11.10学习到网络编程
+  2023.11.5学习到坦克大战  Chapter 20
+  2023.11.10学习到网络编程 Chapter 21
+  2023.11.28学习到Chapter28 两个月结束第一阶段的基础学习算是比较久了
